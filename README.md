@@ -2,7 +2,7 @@
 
 WORK FOR THE WEEK:
 
-Plese research and begin to implement the fuctions assigned to you. 
+Please research and begin to implement the fuctions assigned to you. 
 
 NEXT MEETING:
 

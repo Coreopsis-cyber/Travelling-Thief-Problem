@@ -1,5 +1,13 @@
 # Travelling-Thief-Problem
 
+WORK FOR THE WEEK:
+
+Plese research and begin to implement the fuctions assigned to you. 
+
+NEXT MEETING:
+
+1/12/23 2:30PM 
+
 DO NOT LEAVE IN FINAL REPO
 
 The traveling thief problem combines the Traveling Salesman Problem (TSP) and the Knapsack Problem (KNP). Both problems will be explained in the following sections.

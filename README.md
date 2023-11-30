@@ -6,7 +6,7 @@ Please research and begin to implement the fuctions assigned to you.
 
 NEXT MEETING:
 
-1/12/23 2:30PM 
+1/12/23 3:30PM 
 
 DO NOT LEAVE IN FINAL REPO
 

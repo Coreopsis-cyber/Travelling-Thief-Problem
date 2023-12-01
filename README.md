@@ -6,7 +6,8 @@ Please research and begin to implement the fuctions assigned to you.
 
 NEXT MEETING:
 
-1/12/23 3:30PM 
+4/12/23 11:30AM
+IN PERSON: SWIoT building AI arena
 
 Functions required to run the program: 
 PLEASE ADD IF YOU USE A FUNCTION WHICH REQUIRES INSTALL

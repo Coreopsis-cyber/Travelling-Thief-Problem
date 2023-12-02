@@ -2,7 +2,7 @@
 
 WORK FOR THE WEEK:
 
-Please research and begin to implement the fuctions assigned to you. 
+Finish coding functions for Sunday evening. Ursula, Jack and Nafees have sections of the group report to work on. Further work for the experimentation phase will be discussed in the meeting on Monday.
 
 NEXT MEETING:
 

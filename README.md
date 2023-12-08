@@ -1,18 +1,20 @@
 # Travelling-Thief-Problem
+The Evolutionary algorithm can be ran using the Jupyter Notebook file (ADD NAME HERE).
 
-WORK FOR THE WEEK:
 
-Finish coding functions for Sunday evening. Ursula, Jack and Nafees have sections of the group report to work on. Further work for the experimentation phase will be discussed in the meeting on Monday.
+Access to the code base, experimental data and figures can be found at 
+\hyperlink(Travelling-Thief-Problem)[https://github.com/Coreopsis-cyber/Travelling-Thief-Problem]
 
-NEXT MEETING:
-
-4/12/23 11:30AM
-IN PERSON: SWIoT building AI arena
 
 Functions required to run the program: 
-PLEASE ADD IF YOU USE A FUNCTION WHICH REQUIRES INSTALL
+
 ```
  pip install ypstruct
+ pip install numpy
+ pip install pandas
+ pip install seaborn
+ pip install matplotlib
+ pip install scipy
 ```
 
 Problem Specification: https://www.egr.msu.edu/coinlab/blankjul/gecco19-thief/#traveling-thief-problem-ttp

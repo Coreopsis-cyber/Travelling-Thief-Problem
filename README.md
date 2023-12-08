@@ -3,7 +3,7 @@ The Evolutionary algorithm can be ran using the Jupyter Notebook file (ADD NAME 
 
 
 Access to the code base, experimental data and figures can be found at 
-\hyperlink(Travelling-Thief-Problem)[https://github.com/Coreopsis-cyber/Travelling-Thief-Problem]
+(Travelling-Thief-Problem)[https://github.com/Coreopsis-cyber/Travelling-Thief-Problem]
 
 
 Functions required to run the program: 

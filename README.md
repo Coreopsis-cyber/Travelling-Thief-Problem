@@ -8,17 +8,13 @@ Access to the code base, experimental data and figures can be found at
 [Travelling-Thief-Problem](https://github.com/Coreopsis-cyber/Travelling-Thief-Problem):
 
 Team members:
--Coreopsis-cyber = Ursula Mennear
 
--jf632 = Jack French
-
--Kanchan-chavan = Kanchan Dhansing Chavan
-
--Molleas = Kaiyuan Li
-
--Swaroop29 = Swaroop Dattatraya Patil
-
--Nafeesp2001 = Nafees Naushad Posharkar
+*Coreopsis-cyber = Ursula Mennear
+*jf632 = Jack French
+*Kanchan-chavan = Kanchan Dhansing Chavan
+*Molleas = Kaiyuan Li
+*Swaroop29 = Swaroop Dattatraya Patil
+*Nafeesp2001 = Nafees Naushad Posharkar
 
 
 This program requires Python 3.11.4.

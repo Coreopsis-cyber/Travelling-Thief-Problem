@@ -1,10 +1,21 @@
 # Travelling-Thief-Problem
-The Evolutionary algorithm can be ran using the Jupyter Notebook file (ADD NAME HERE).
+
+This Repository contains the group J's project for ECMM409.
+The Evolutionary algorithm can be run using the Jupyter Notebook file (ADD NAME HERE).
 
 
 Access to the code base, experimental data and figures can be found at 
-(Travelling-Thief-Problem)[https://github.com/Coreopsis-cyber/Travelling-Thief-Problem]
+[Travelling-Thief-Problem](https://github.com/Coreopsis-cyber/Travelling-Thief-Problem):
 
+Team members:
+-Coreopsis-cyber = Ursula Mennear
+-jf632 = Jack French
+-Kanchan-chavan = Kanchan Dhansing Chavan
+-Molleas = Kaiyuan Li
+-Swaroop29 = Swaroop Dattatraya Patil
+-Nafeesp2001 = Nafees Naushad Posharkar
+
+This program requires Python 3.11.4.
 
 Functions required to run the program: 
 

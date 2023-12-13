@@ -30,4 +30,9 @@ Functions required to run the program:
  pip install scipy
 ```
 
+To run the EA: 
+
+To run the EA, open the TTP_solver_with_experiments file in jupyter notebook, vs code or similar, uncomment an experiment you want to run and then run all the cells in the file. This will produce the results in a dataframe and a figure showing the Pareto front of the results. To run an experiment on another file, change the filepath in the experiment to one of the different datasets.
+
+
 Problem Specification: https://www.egr.msu.edu/coinlab/blankjul/gecco19-thief/#traveling-thief-problem-ttp
